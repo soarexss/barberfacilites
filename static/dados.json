@@ -1,0 +1,45 @@
+[
+    {
+        "nome": "João Silva",
+        "telefone": "11999999999",
+        "agendamentos": [
+            {
+                "data": "20/08/2025",
+                "hora": "14:00",
+                "barbeiro": "Carlos"
+            },
+            {
+                "data": "25/08/2025",
+                "hora": "10:00",
+                "barbeiro": "Lucas"
+            }
+        ]
+    },
+    {
+        "nome": "Maria Souza",
+        "telefone": "11988888888",
+        "agendamentos": [
+            {
+                "data": "21/08/2025",
+                "hora": "16:00",
+                "barbeiro": "Carlos"
+            },
+            {
+                "data": "22/08/2025",
+                "hora": "09:00",
+                "barbeiro": "Lucas"
+            }
+        ]
+    },
+    {
+        "nome": "Pedro Alves",
+        "telefone": "11977777777",
+        "agendamentos": [
+            {
+                "data": "23/08/2025",
+                "hora": "11:30",
+                "barbeiro": "Carlos"
+            }
+        ]
+    }
+]

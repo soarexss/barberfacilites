@@ -1,0 +1,43 @@
+[
+    {
+        "nome": "string",
+        "telefone": "string",
+        "agendamentos": []
+    },
+    {
+        "nome": "Silva",
+        "telefone": "11999999999",
+        "agendamentos": []
+    },
+    {
+        "nome": "samuel pinheiro",
+        "telefone": "61993645119",
+        "agendamentos": [
+            {
+                "data": "14/07/2025",
+                "hora": "16:30",
+                "barbeiro": "cleitin"
+            },
+            {
+                "data": "14/07/2025",
+                "hora": "16:30",
+                "barbeiro": "cleitin"
+            },
+            {
+                "data": "14/07/2025",
+                "hora": "16:30",
+                "barbeiro": "cleitin"
+            },
+            {
+                "data": "14/07/2025",
+                "hora": "16:30",
+                "barbeiro": "cleitin"
+            },
+            {
+                "data": "14/07/2025",
+                "hora": "16:30",
+                "barbeiro": "cleitin"
+            }
+        ]
+    }
+]
